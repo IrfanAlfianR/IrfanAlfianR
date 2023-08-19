@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is **Irfan Alfian Rizqi**
+
+I am a student at **Semarang State University**, from a computer engineering study program
+
+if you are interested in getting to know me, please follow my [Linkedin] account.\
+https://www.linkedin.com/in/irfan-alfian-rizqi-851309280/
+
 <!--
 **IrfanAlfianR/IrfanAlfianR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
